@@ -13,3 +13,21 @@ Date of birth: 25th July 1985
 > Nationality: Russian
 
 Marital status: single
+
+## Education
+
+Lomonosov Moscow State University, department of Economics, Master’s degree in Marketing (2001–2006).
+
+## Work experience
+
+**Global Street, 2007-present**
+
+Moscow, Russia
+
+Financial analyst
+
+- Preparing business plans
+- Planning investment activities and budget
+- Analyzing data sets collected through all the departments
+- Preparing financial forecasts
+- Preparing reports for the board of management
