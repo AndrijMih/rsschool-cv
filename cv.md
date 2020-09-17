@@ -31,3 +31,27 @@ Financial analyst
 - Analyzing data sets collected through all the departments
 - Preparing financial forecasts
 - Preparing reports for the board of management
+
+## Personal qualities
+
+- Articulate
+
+- Broad-minded
+
+- Dependable
+
+- Determined
+
+- Initiative
+
+- Versatile
+
+## Special skills
+
+- Native Russian
+
+- Fluent English
+
+- Computer literacy (Microsoft Office, Outlook Express, 1C: Enterprise)
+
+- Hobbies: foreign languages, chess
