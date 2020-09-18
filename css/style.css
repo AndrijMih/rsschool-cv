@@ -1,0 +1,38 @@
+.container {
+    margin: 0 auto;
+    width: 1200px;
+    padding: 50px;
+    background-color: #F8F8F9;
+}
+
+.header {
+    padding: 50px 50px 10px 420px;
+}
+
+h1 {
+    font-size: 38px;
+    padding-top: 20px;
+    padding-left: 70px;
+    color: #E2AB3F;
+}
+
+h2 {
+    color: #E2AB3F;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.inner-right {
+    padding: 30px 50px 30px 50px;
+}
+
+.inner-left {
+    padding: 30px 70px 30px 50px;
+}
+
+.info {
+    list-style: none;
+}
