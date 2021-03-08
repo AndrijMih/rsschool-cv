@@ -8,6 +8,8 @@ Telephone: mobile: +7-999-999-9999
 
 Email: <name@rambler.ru>
 
+Telegram: https://t.me/andriimih
+
 Date of birth: 25th July 1985
 
 Nationality: Ukrainian
